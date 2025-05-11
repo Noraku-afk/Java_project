@@ -1,7 +1,5 @@
-All the 30 Java Programs are in this repository
+Devansh Sharma
 
-Sparsh Kaushik 
-
-23/SCA/BCA/054 
+23/SCA/BCA/012
 
 BCA 4A
